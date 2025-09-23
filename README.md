@@ -86,10 +86,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![Random Meme](https://i.imgflip.com/5k8u9y.jpg)  
+*Note: Meme updates manually or you can host multiple memes in your repo and rotate them using GitHub Actions.*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sakshimistic&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sakshimore) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SakshiMore) 
